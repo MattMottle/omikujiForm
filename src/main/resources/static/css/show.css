@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.container {
+	display: flex;
+	flex-direction: column;
+	font-family: papyrus;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+}
+
+.results {
+	text-align: center;
+	border: solid 2px black;
+	width: 500px;
+	font-size: 18pt;
+}
+
+a {
+	color: red;
+}
